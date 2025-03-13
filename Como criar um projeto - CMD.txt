@@ -1,0 +1,11 @@
+Como criar um projeto - CMD 
+Todos os processos são feitos pelo CMD desde a criação do projeto ou dar um start em um projeto novamente. 
+
+Criar o projeto - Utilizando a versão 0.75.4:
+	- npx @react-native-community/cli init NomeDoProjeto --version 0.75.4
+Acessar a pasta do projeto
+	- cd meuapp
+Iniciar o build 
+	- npm run android
+Caso não tenha rodado o servidor
+	- npm start
